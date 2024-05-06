@@ -1,4 +1,4 @@
-# Real-time Order Book and Trade Updates
+# cobra: Crypto Order Book Real-time Application
 
 **IMPORTANT**: While using the frontend, wait at the browser screen or leave it for a while to see the Trade happening and growing.
 
@@ -71,7 +71,8 @@ The system should:
 
 The project structure is as follows:
 
-CryptoOrderBookRealTime/
+```
+cobra/
 │
 ├── client/
 │ ├── index.html
@@ -90,6 +91,7 @@ CryptoOrderBookRealTime/
 │ └── MessageQueueService.js
 │
 └── server.js
+```
 
 ### How to Run
 
