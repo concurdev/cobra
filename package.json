@@ -1,5 +1,5 @@
 {
-  "name": "cryptoorderbookrealtime",
+  "name": "cobra",
   "version": "1.0.0",
   "description": "Real-time Orderbook and Trade Updates with Node.js and Socket.io",
   "main": "server.js",
@@ -15,9 +15,7 @@
     "url": "https://github.com/concurdev/cobra.git"
   },
   "keywords": [
-    "crypto",
-    "orderbook",
-    "realtime"
+    "cobra"
   ],
   "dependencies": {
     "amqplib": "^0.10.4",
