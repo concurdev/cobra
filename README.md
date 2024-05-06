@@ -1,5 +1,7 @@
 # Real-time Order Book and Trade Updates
 
+**IMPORTANT**: While using the frontend, wait at the browser screen or leave it for a while to see the Trade happening and growing.
+
 ## Overview
 
 This project implements a real-time order book and trade update system for a crypto exchange platform. The system enables users to subscribe to specific crypto pairs and receive updates on order book changes and trade executions in real-time.
@@ -42,6 +44,8 @@ The system follows a microservices architecture, characterized by modularity, de
 2. Install dependencies using `npm install`.
 3. Start the server using `npm start`.
 4. Access the client interface by opening `client/index.html` in a web browser URL would be http://localhost:7373/client/index.html, port 7373 is used in config.
+   **IMPORTANT**: Wait at the browser screen or leave it for a while to
+   see the Trade happening and growing.
 
 ## Technologies Used
 
