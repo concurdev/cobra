@@ -90,7 +90,8 @@ cobra/
 │ ├── CacheService.js
 │ └── MessageQueueService.js
 │
-└── server.js
+├── server.js
+└── .env
 ```
 
 ### How to Run
